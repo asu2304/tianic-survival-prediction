@@ -1,6 +1,6 @@
 Sure! Here's an example of a README file for a Titanic survival prediction project on Github¹:
 
-```
+
 # Titanic-Survival-Prediction
 
 This analysis aimed to create a prediction model that predict the survival of titanic's passengers. The python scripts are tested and run on Spyder (Python 3.8). Prediction submitted to Kaggle gained public score of 0.78229. Simple web application is created using Streamlit and Heroku at the end of the analysis.
@@ -22,7 +22,6 @@ The project uses machine learning algorithms to predict whether a passenger woul
 
 The prediction submitted to Kaggle gained public score of 0.78229.
 
-```
 
 I hope this helps! Let me know if you have any other questions.
 
